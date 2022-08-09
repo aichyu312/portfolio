@@ -36,6 +36,4 @@ python 3 / Flask / MongoDB /  <p>
 Javacript / AWS / HTML5 / CSS / jQuery <p>
 </br>[프로젝트 주소](https://github.com/aichyu312/Event-Cafe-Cloud)
 
-</br>
 
-## 📌 Trouble Shooting
