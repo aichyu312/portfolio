@@ -19,7 +19,7 @@
 > 카페 중개 대여 플랫폼 (최종 팀 프로젝트) <p> 개발 기간 : 2022.06.24 - 2022.07.28 <p> </br>기술 스택 : <p>
 java 11 / Spring Boot 2.6.9 / Gradle / Spring Data JPA <p>
 MySQL / Thymeleaf / Spring Security / AWS / Javacript / HTML5 / CSS / jQuery<p>
-</br>[프로젝트 주소](https://github.com/aichyu312/eventcafecloud)
+</br>[프로젝트 주소](https://github.com/teawan-Noh/eventcafecloud)
 </br>
 
 - **2. Lolinkedin**
